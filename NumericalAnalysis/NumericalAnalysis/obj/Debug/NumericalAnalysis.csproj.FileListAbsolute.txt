@@ -1,0 +1,15 @@
+c:\users\world\documents\visual studio 2017\Projects\NumericalAnalysis\NumericalAnalysis\bin\Debug\MainForm.resx
+c:\users\world\documents\visual studio 2017\Projects\NumericalAnalysis\NumericalAnalysis\bin\Debug\MainForm.cs
+c:\users\world\documents\visual studio 2017\Projects\NumericalAnalysis\NumericalAnalysis\bin\Debug\MainForm.Designer.cs
+c:\users\world\documents\visual studio 2017\Projects\NumericalAnalysis\NumericalAnalysis\bin\Debug\Matrix.cs
+c:\users\world\documents\visual studio 2017\Projects\NumericalAnalysis\NumericalAnalysis\bin\Debug\MatrixFactory.cs
+c:\users\world\documents\visual studio 2017\Projects\NumericalAnalysis\NumericalAnalysis\bin\Debug\NumericalUtils.cs
+c:\users\world\documents\visual studio 2017\Projects\NumericalAnalysis\NumericalAnalysis\bin\Debug\Program.cs
+c:\users\world\documents\visual studio 2017\Projects\NumericalAnalysis\NumericalAnalysis\bin\Debug\NumericalAnalysis.exe.config
+c:\users\world\documents\visual studio 2017\Projects\NumericalAnalysis\NumericalAnalysis\bin\Debug\NumericalAnalysis.exe
+c:\users\world\documents\visual studio 2017\Projects\NumericalAnalysis\NumericalAnalysis\bin\Debug\NumericalAnalysis.pdb
+c:\users\world\documents\visual studio 2017\Projects\NumericalAnalysis\NumericalAnalysis\obj\Debug\NumericalAnalysis.MainForm.resources
+c:\users\world\documents\visual studio 2017\Projects\NumericalAnalysis\NumericalAnalysis\obj\Debug\NumericalAnalysis.Properties.Resources.resources
+c:\users\world\documents\visual studio 2017\Projects\NumericalAnalysis\NumericalAnalysis\obj\Debug\NumericalAnalysis.csproj.GenerateResource.Cache
+c:\users\world\documents\visual studio 2017\Projects\NumericalAnalysis\NumericalAnalysis\obj\Debug\NumericalAnalysis.exe
+c:\users\world\documents\visual studio 2017\Projects\NumericalAnalysis\NumericalAnalysis\obj\Debug\NumericalAnalysis.pdb
